@@ -17,6 +17,9 @@ A lista de endereços pré-definidos encontra-se no código-fonte em `list_of_ad
 
 - Python 3.x
 - Tkinter (biblioteca gráfica padrão do Python)
+- pyinstaller               6.4.0
+- pyinstaller-hooks-contrib 2024.1
+- pywin32-ctypes            0.2.2
 
 ## Contribuição
 
